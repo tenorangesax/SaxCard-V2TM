@@ -1,5 +1,13 @@
 # SaxCard-V2TM
-**This is my PCB business card redesigned from the ground up with an NFC and a clever eye-blinking LED!**
+**Today I wanted to make a PCB business card but really detailed. So I decided to make a PCB buisness card with just a lot of design! (so I guess I got a little more familiar with aesthetics in Kicad)
+
+I wanted to have a more cool, tech look, so I put traces and chips and used all layers to make the card!
+
+I had to censor some stuff since I'm not comfortable with giving out my personal info.
+
+I did a lot of research before hand for how to make a functioning one, but I got fed up and decided to just give up on that and spend a lot of time designing it.
+
+I put the stuff I liked and tried different combos till i got it right.**
 
 **FINAL PRODUCT:**
 
