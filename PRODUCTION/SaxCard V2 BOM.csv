@@ -1,4 +1,4 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier;"ref";
 1;"ANT0";"25X48MM_NFC";1;"25X48MM_NFC_ANTENNA";;;
 2;"C1";"C0603_348";1;"220 nf";;;
 3;"LED1";"SML0805_259";1;"";;;
