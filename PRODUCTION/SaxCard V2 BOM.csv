@@ -1,8 +1,8 @@
 "Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier;"ref";
 1;"ANT0";"25X48MM_NFC";1;"25X48MM_NFC_ANTENNA";;;
 2;"C1";"C0603_348";1;"220 nf";;;
-3;"LED1";"SML0805_259";1;"";;;
-4;"NT3H1101";"XQFN8";1;"NT3H";;;
+3;"LED1";"SML0805_259";1;"";https://www.amazon.com/gp/product/B0DZXWR3YL?smid=A2YNTH5M4779HG&psc=1;;
+4;"NT3H1101";"XQFN8";1;"NT3H";https://www.amazon.com/gp/product/B0F546S7G3?smid=A20LHS98ZC57BT&psc=1;; 
 5;"R1";"R0603_348";1;"47 Ω";;;
 6;"REF**";"QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm";1;"QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm";;;
 7;"REF**, REF**, REF**, REF**";"CP_Elec_3x5.4";4;"CP_Elec_3x5.4";;;
